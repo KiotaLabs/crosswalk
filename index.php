@@ -1,7 +1,90 @@
-<?php
-include('template.php');
-?>
+<?php include('template.php'); ?>
 
+	    <!-- Register Poup -->
+		<div class="register-popup">
+			<div class="popup-wrapper">
+				<span class="close-popup-btn icon-cross"></span>
+
+				<form id="register-form">
+					<div class="section-header">
+						<h1>Register</h1>
+					</div>
+
+					<label>
+						<span>First Name *</span>
+						<input type="text" class="js-input" name="register-first-name" />
+					</label>
+
+					<label>
+						<span>Last Name *</span>
+						<input type="text" class="js-input" name="register-last-name" />
+					</label>
+
+					<label>
+						<span>E-mail address *</span>
+						<input type="text" class="js-input" name="register-email" />
+					</label>
+
+					<label>
+						<span>Password *</span>
+						<input type="password" class="js-input" name="register-password" />
+					</label>
+
+					<label>
+						<span>Confirm Password *</span>
+						<input type="password" class="js-input" name="register-password" />
+					</label>
+
+					<div class="btn-wrapper">
+						<button class="btn theme-btn-3">Register</button>
+					</div>
+
+					<div class="section-header small">
+						<h1><span>or</span></h1>
+					</div>
+
+					<div class="social-buttons">
+						<a href="#" class="facebook">facebook</a>
+						<a href="#" class="google-plus">google+</a>
+					</div>
+
+					<p><a href="#" class="forgot-password">Forgot password?</a></p>
+					<p>Have an account already? <a href="#" class="login-btn">Login here</a></p>
+				</form>
+
+				<form id="login-form">
+					<div class="section-header">
+						<h1>Login</h1>
+					</div>
+
+					<label>
+						<span>E-mail address *</span>
+						<input type="text" class="js-input" name="login-email" />
+					</label>
+
+					<label>
+						<span>Password *</span>
+						<input type="password" class="js-input" name="login-password" />
+					</label>
+
+					<div class="btn-wrapper">
+						<button class="btn theme-btn-3">Login</button>
+					</div>
+
+					<div class="section-header small">
+						<h1><span>or</span></h1>
+					</div>
+
+					<div class="social-buttons">
+						<a href="#" class="facebook">facebook</a>
+						<a href="#" class="google-plus">google+</a>
+					</div>
+					
+					<p><a href="#" class="forgot-password">Forgot password?</a></p>
+					<p>Don't have an account? <a href="#" class="register-btn">Register here</a></p>
+				</form>
+			</div>
+		</div>
 
 		<!-- Main Content -->
 		<div class="content-wrapper">
@@ -32,7 +115,7 @@ include('template.php');
  -->
 									</a></h1>
 
-									<a href="courses-list.html" class="slider-component second-row btn theme-btn-1">
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
 										<span class="button">Browse courses</span>
 									</a>
 								</div>
@@ -56,7 +139,7 @@ include('template.php');
 <!-- 									</a> -->
 									</h1>
 
-									<a href="courses-list.html" class="slider-component second-row btn theme-btn-1">
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
 										<span class="button">Browse courses</span>
 									</a>
 								</div>
@@ -80,7 +163,7 @@ include('template.php');
 <!-- 									</a> -->
 									</h1>
 
-									<a href="courses-list.html" class="slider-component second-row btn theme-btn-1">
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
 										<span class="button">Browse courses</span>
 									</a>
 								</div>
@@ -100,7 +183,7 @@ include('template.php');
 					<div class="row">
 						<div class="col-xs-6 col-md-3 x-small">
 							<div class="simple-service">
-								<i class="icon icon-book-open"></i>
+								<i class="icon fa fa-briefcase"></i>
 								<h4 class="title">Placement Assistance</h4>
 								<p>Leverage the wide network of our experts spread across major accounting firms and MNCs to avail the best career opportunities</p>
 							</div>
@@ -108,7 +191,7 @@ include('template.php');
 
 						<div class="col-xs-6 col-md-3 x-small">
 							<div class="simple-service">
-								<i class="icon icon-gears"></i>
+								<i class="icon fa fa-certificate "></i>
 								<h4 class="title">Licensing Assistance</h4>
 								<p>Our team of licensed CPAs ensures that adequate guidance and help is provided to the students to get the CPA license and attain the most reputed CPA designation</p>
 							</div>
@@ -116,7 +199,7 @@ include('template.php');
 
 						<div class="col-xs-6 col-md-3 x-small">
 							<div class="simple-service">
-								<i class="icon icon-calendar"></i>
+								<i class="icon fa fa-trophy"></i>
 								<h4 class="title">Award Program</h4>
 								<p>Stand out among your fellow CPA aspirants to get your hands on cash rewards intended for exceptional performance</p>
 							</div>
@@ -124,7 +207,7 @@ include('template.php');
 
 						<div class="col-xs-6 col-md-3 x-small">
 							<div class="simple-service">
-								<i class="icon icon-flag"></i>
+								<i class="icon fa fa-file-audio-o"></i>
 								<h4 class="title">Supplementary Material</h4>
 								<p>Prepare on the go with 50 hours of audio files and more than 2000 flash cards made available to you as part of the enrollment</p>
 							</div>
@@ -170,7 +253,7 @@ include('template.php');
 						<div class="course-preview design">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-grid.html" class="description">
+								<a href="courses-grid.php" class="description">
 									<h4 class="title">Auditing and Attestation</h4>
 									<p>Auditing procedures, generally accepted auditing standards and other standards related to attest engagements.</p>
 								</a>
@@ -182,7 +265,7 @@ include('template.php');
 						<div class="course-preview business">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-list.html" class="description">
+								<a href="courses-list.php" class="description">
 									<h4 class="title">Regulation</h4>
 									<p>Federal taxation, professional and legal responsibilities, ethics, and business law, and the skills required to apply that knowledge.</p>
 								</a>
@@ -194,7 +277,7 @@ include('template.php');
 						<div class="course-preview health">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-grid.html" class="description">
+								<a href="courses-grid.php" class="description">
 									<h4 class="title">Financial Accounting and Reporting</h4>
 									<p>Accounting principles for business enterprises, not-for- profit organizations, and governmental entities.</p>
 								</a>
@@ -206,7 +289,7 @@ include('template.php');
 						<div class="course-preview hospitality">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-list.html" class="description">
+								<a href="courses-list.php" class="description">
 									<h4 class="title">Business Environment and Concepts</h4>
 									<p>that candidates should know in order to understand the business reasons for and accounting implications of transactions.</p>
 								</a>
@@ -216,7 +299,7 @@ include('template.php');
 				</div>
 
 				<div class="btn-wrapper">
-					<a href="courses-list.html" class="btn theme-btn-2" style="margin-top:20px;">Register for training</a>
+					<a href="courses-list.php" class="btn theme-btn-2" style="margin-top:20px;">Register for training</a>
 				</div>
 			</section>
 
@@ -463,88 +546,30 @@ include('template.php');
 				<div class="box-img"><span></span></div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-5">
-							<h2>Drop us an email Today</h2>
+					<div class="col-md-3"></div>
+						<div class="col-md-4">
+							<h2>START FREE TRAIL</h2>
 						</div>
 					
-					<div class="col-md-3">
+					<!-- 
+<div class="col-md-3">
 							<input type="text" placeholder="Email Address" style="width:100%; margin-top:10px; height:35px;  border-radius:3px; padding:5px"/>
 						</div>
 					
+ -->
 					
-						<div class="col-md-4">
+						<div class="col-md-2">
 							<div class="button-wrapper">
-								<a href="contact.html" class="btn theme-btn-3">Get in touch</a>
+								<a href="404.php" class="btn theme-btn-3">DEMO</a>
 							</div>
 						</div>
+						
+						<div class="col-md-3"></div>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<footer class="fixed">
-			<div class="container">
-				<div class="footer-wrapper">
-					<img src="img/director.png" alt="footer brand" class="footer-brand" />
-
-					<ul class="social-block">
-						<li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="https://dribbble.com/"><i class="fa fa-dribbble"></i></a></li>
-						<li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="https://www.pinterest.com/"><i class="fa fa-pinterest"></i></a></li>
-						<li><a href="https://www.facebook.com/"><i class="fa fa-instagram"></i></a></li>
-						<li><a href="https://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-					</ul>
-
-					<div class="main-area">
-						<div class="menu">
-							<ul>
-								<li><a href="index.html">Home</a></li>
-								<li><a href="courses-grid.html">Courses</a></li>
-								<li><a href="pricing.html">Pricing</a></li>
-								<li><a href="course.html">Single Course</a></li>
-								<li><a href="contact.html">Contact</a></li>
-							</ul>
-						</div>
-
-						<div class="row">
-							<div class="col-md-4">
-								<div class="footer-widget widget_info">
-									<p><span>Vipul Mittal</span><br />Certified CPA</p>
-								</div>
-							</div>
-
-							<div class="col-md-4">
-								<div class="footer-widget widget_contact">
-									<p>Crosswalk Professional Education Pvt Ltd<br />+91 9540679259 |<br /><a href="#">info@crosswalkcpa.com</a></p>
-								</div>
-							</div>
-
-							<!-- 
-<div class="col-md-4">
-								<div class="footer-widget widget_tagcloud">
-									<div class="tagcloud">
-										<a href="#">Education</a>
-										<a href="#">Courses</a>
-										<a href="#">CPA</a>
-										<a href="#">FAR</a>
-										<a href="#">AUD</a>
-										<a href="#">REG</a>
-										<a href="#">Instruction</a>
-										<a href="#">Skills</a>
-										<a href="#">BEC</a>
-									</div>
-								</div>
-							</div>
- -->
-						</div>
-					</div>
-
-					<div class="copyrights">
-						<p>Copyright 2015. Crosswalk Professional Education Pvt Ltd</p>
-					</div>
-				</div>
-			</div>
-		</footer>
 		
 		
+<?php include('footer.php'); ?>

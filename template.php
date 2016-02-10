@@ -10,116 +10,29 @@
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
+   
     <!-- Style CSS -->
-    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/lightbox.css" />
     <link rel="stylesheet" href="css/icomoon.css" />
     <link rel="stylesheet" href="css/screen.css" />
 </head>
+
 <body id="front-page" data-smooth-scroll="on">
-	<!-- 
-<form class="global-search-form">
-		<div class="container">
-			<input type="text" name="search-input" class="search-input js-input" placeholder="Type here ..." />
-		</div>
-	</form>
- -->
+
 
 	<!-- Page Wrapper -->
 	<div id="page">
-		<!-- Register Poup -->
-		<div class="register-popup">
-			<div class="popup-wrapper">
-				<span class="close-popup-btn icon-cross"></span>
-
-				<form id="register-form">
-					<div class="section-header">
-						<h1>Register</h1>
-					</div>
-
-					<label>
-						<span>First Name *</span>
-						<input type="text" class="js-input" name="register-first-name" />
-					</label>
-
-					<label>
-						<span>Last Name *</span>
-						<input type="text" class="js-input" name="register-last-name" />
-					</label>
-
-					<label>
-						<span>E-mail address *</span>
-						<input type="text" class="js-input" name="register-email" />
-					</label>
-
-					<label>
-						<span>Password *</span>
-						<input type="password" class="js-input" name="register-password" />
-					</label>
-
-					<label>
-						<span>Confirm Password *</span>
-						<input type="password" class="js-input" name="register-password" />
-					</label>
-
-					<div class="btn-wrapper">
-						<button class="btn theme-btn-3">Register</button>
-					</div>
-
-					<div class="section-header small">
-						<h1><span>or</span></h1>
-					</div>
-
-					<div class="social-buttons">
-						<a href="#" class="facebook">facebook</a>
-						<a href="#" class="google-plus">google+</a>
-					</div>
-
-					<p><a href="#" class="forgot-password">Forgot password?</a></p>
-					<p>Have an account already? <a href="#" class="login-btn">Login here</a></p>
-				</form>
-
-				<form id="login-form">
-					<div class="section-header">
-						<h1>Login</h1>
-					</div>
-
-					<label>
-						<span>E-mail address *</span>
-						<input type="text" class="js-input" name="login-email" />
-					</label>
-
-					<label>
-						<span>Password *</span>
-						<input type="password" class="js-input" name="login-password" />
-					</label>
-
-					<div class="btn-wrapper">
-						<button class="btn theme-btn-3">Login</button>
-					</div>
-
-					<div class="section-header small">
-						<h1><span>or</span></h1>
-					</div>
-
-					<div class="social-buttons">
-						<a href="#" class="facebook">facebook</a>
-						<a href="#" class="google-plus">google+</a>
-					</div>
-					
-					<p><a href="#" class="forgot-password">Forgot password?</a></p>
-					<p>Don't have an account? <a href="#" class="register-btn">Register here</a></p>
-				</form>
-			</div>
-		</div>
 		
 		<!-- Header -->
+		<!-- style="background:#000" -->
 		<header>
-			<div class="container">
+			<div class="container" >
 				<div class="row">
 					<div class="col-xs-4 col-sm-2">
-						<a class="brand" href="index.html">
-							<img src="img/identity.jpg" alt="identity" />
+						<a class="brand" href="index.php">
+							<img src="img/logo.png" alt="identity" style="height:50px"/>
 						</a>
 					</div>
 
@@ -132,9 +45,11 @@
 								<li><a href="https://dribbble.com/"><i class="fa fa-dribbble"></i></a></li>
 							</ul>
 
-							<span class="search-box-toggle no-select">
+							<!-- 
+<span class="search-box-toggle no-select">
 								<i class="icon fa fa-search"></i>
 							</span>
+ -->
 
 							<span class="menu-toggle no-select">Menu
 								<span class="hamburger">
@@ -153,7 +68,7 @@
 									<ul>
 										<li class="cart-course">
 											<a href="#" class="remove-from-cart"><i class="icon-cross"></i></a>
-											<a class="cover" href="course.html">
+											<a class="cover" href="course.php">
 												<img src="img/cart-course.jpg" alt="cart course cover" />
 											</a>
 											<p class="title">
@@ -164,7 +79,7 @@
 
 										<li class="cart-course">
 											<a href="#" class="remove-from-cart"><i class="icon-cross"></i></a>
-											<a class="cover" href="course.html">
+											<a class="cover" href="course.php">
 												<img src="img/cart-course-2.jpg" alt="cart course cover" />
 											</a>
 											<p class="title">
@@ -175,7 +90,7 @@
 									</ul>
 
 									<div class="cart-action">
-										<a href="cart.html" class="cart-btn">View cart</a>
+										<a href="cart.php" class="cart-btn">View cart</a>
 									</div>
 								</div>
 							</div>
@@ -189,28 +104,28 @@
 
 			<nav>
 				<ul>
-					<li class="current-menu-item"><a href="index.html">Home</a></li>
+					<li class="current-menu-item"><a href="index.php">Home</a></li>
 					<li>
-						<a href="courses-grid.html">Courses</a>
+						<a href="courses-grid.php">Courses</a>
 						<ul>
 							<!--<li><a href="courses-grid.html">Grid overlay</a></li>-->
-							<li><a href="courses-list.html">Subjects</a></li>
-							<li><a href="pricing.html">Pricing</a></li>
-							<li><a href="course.html">Demo</a></li>
+							<li><a href="courses-list.php">Subjects</a></li>
+							<li><a href="pricing.php">Pricing</a></li>
+							<li><a href="404.php">Demo</a></li>
 						</ul>
 					</li>
 					<li>
 						<a href="#">About the exam</a>
 						<ul>
-							<li><a href="members.html">What is CPA?</a></li>
+							<li><a href="whatIsCPA.php">What is CPA?</a></li>
 							<!-- <li><a href="pricing.html">Pricing</a></li> -->
-							<li><a href="404.html">State CPA requirements</a></li>
-							<li><a href="cart.html">Why Crosswalk?</a></li>
+							<li><a href="requirements.php">State CPA requirements</a></li>
+							<li><a href="whyCrosswalk.php">Why Crosswalk?</a></li>
 							<!--<li><a href="myaccount.html">My Account</a></li>-->
 						</ul>
 					</li>
 					<li>
-						<a href="blog.html">Blog</a>
+						<a href="blog.php">Blog</a>
 						<!--
 						<ul>
 							<li><a href="blog.html">Blog</a></li>
@@ -220,20 +135,22 @@
 						</ul>
 						-->
 					</li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</nav>
 		</header>
-<!-- Footer -->
-		
+	
 	</div>
 
 	<!-- Scripts -->
+	<script src="http://maps.googleapis.com/maps/api/js"></script>
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery-ui.js"></script>
 	<script src="js/lightbox.js"></script>
 	<script src="js/velocity.js"></script>
 	<script src="js/modernizr.js"></script>
+	<script src="js/imagesloaded.js"></script>
+	<script src="js/isotope.js"></script>
 	<script src="js/smooth-scroll.js"></script>
 	<script src="js/bxslider.js"></script>
 	<script src="js/options.js"></script>
