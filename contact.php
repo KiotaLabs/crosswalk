@@ -104,10 +104,60 @@
 
 			<!-- Contact Section -->
 			<section class="section-contact">
+                
+                <div>
+                <center>
+                        <div class="col-md-6 col-sm-6">
+									<div class="single-course grid-course">
+										<div class="course-thumbnail map-wrapper" style="height:100px">
+								            <div class="map" id="map-canvas2"></div>
+										</div>
+
+										<div class="course-details">
+											<h3 class="title">
+												<a href="course.html">Hyderabad</a>
+											</h3>
+
+											<ul class="course-meta">
+												<li><span></span> 7th Floor, South Wing, Krishe Sapphire<br>Hitec City Main Road, Madhapur Village</li>
+												<li><span></span> +91-9599440532, +91-9599440531</li>
+											</ul>
+										</div>
+									</div>	
+								</div>
+                    
+                    
+
+				       <div class="col-md-6 col-sm-6">
+									<div class="single-course grid-course">
+										<div class="course-thumbnail map-wrapper" style="height:100px">
+								            <div class="map" id="map-canvas2"></div>
+										</div>
+
+										<div class="course-details">
+											<h3 class="title">
+												<a href="course.html">New Delhi</a>
+											</h3>
+
+											<ul class="course-meta">
+												<li><span></span>D-10, Ist Floor<br>South Extension Part - II, New Delhi - 110049</li>
+												<li><span></span> +91-9599440532, +91-9599440531</li>
+											</ul>
+										</div>
+									</div>	
+								</div>
+                    
+                    
+
+				       
+                    </center>
+                </div>
+                
 				<div class="contact-info-wrapper">
 					<div class="container">
-						<div class="row">
-							<div class="col-md-6">
+				      <div class="row">
+                            <div class="col-md-3"></div>
+						    <div class="col-md-6">
 								<form class="contact-form">
 									<label>
 										<input type="text" class="form-input js-input" name="username" />
@@ -133,11 +183,13 @@
 										<span class="button">Send message</span>
 									</button>
 								</form>
-							</div>
-
-							<div class="col-md-6 map-wrapper">
+							</div>   
+                            <div class="col-md-3"></div>
+<!--
+							<div class="col-md-3 map-wrapper">
 								<div class="map" id="map-canvas"></div>
 							</div>
+-->
 						</div>
 					</div>
 				</div>

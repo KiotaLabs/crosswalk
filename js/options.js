@@ -325,7 +325,8 @@
 		},
 
 		googleMapsInit: function () {
-			var mapCanvas = jQuery('#map-canvas');
+            console.log("Hello");
+			var mapCanvas = jQuery('#map-canvas1');
 
 			function initialize_contact_map() {
 			    var mapOptions = {
