@@ -117,26 +117,10 @@
 									</blockquote>
  -->
 									<h4>About Crosswalk</h4>
-<p>Crosswalk specializes in preparing students for CPA exams and offers a complete CPA exam review program. We are focused on creating value and providing highest quality and exam oriented training to our students. We have a team of experts who help our students pass the CPA exam. We provide total support to our students in passing the exams and getting the CPA license.  A journey with Crosswalk CPA Review is divided into 4 papers (FAR, REG, AUD, BEC). By enrolling in this course, you will gain access to:
-
-<br>•	8 Textbooks
-<br>•	Supplementary material
-<br>•	Printed question bank (AICPA released questions)
-<br>•	Printed flashcards
-<br>•	Audio lectures
-<br>•	Online access to question bank, flashcards and audio lectures
-<br>•	Online student support
-<br>•	Regular updates
-<br>•	Licensing assistance
-
-<br><br>This is all you need to pass your CPA exams. So get all the tools to face the exams. We also provide total support to our students in passing the exams and getting the CPA license. 
-
-</p>
-
+									<p>Crosswalk specializes in preparing students for CPA exams and offers a complete CPA exam review program. We are focused on creating value and providing highest quality and exam oriented training to our students. We have a team of experts who help our students pass the CPA exam. We provide total support to our students in passing the exams and getting the CPA license.  A journey with Crosswalk CPA Review is divided into 4 papers (FAR, REG, AUD, BEC). By enrolling in this course, you will gain access to:<br>•	8 Textbooks<br>•	Supplementary material<br>•	Printed question bank (AICPA released questions)<br>•	Printed flashcards<br>•	Audio lectures<br>•	Online access to question bank, flashcards and audio lectures<br>•	Online student support<br>•	Regular updates<br>•	Licensing assistance<br><br>This is all you need to pass your CPA exams. So get all the tools to face the exams. We also provide total support to our students in passing the exams and getting the CPA license. </p>
 
 									<h4>Why Crosswalk?</h4>
 									<p>It is time for something better, something easier, something smarter and something trustier.</p>
-									
 									
 									<p><b>&nbsp;&nbsp; 1. TEXTBOOKS </b></p>
 									<p>Designed for today’s students, the textbooks have an innovative, high-impact writing style that explains topics clearly and concisely. The author has used a variety of pedagogical tools to ensure that the learning is smooth. The author has used direct sentences and step-by-step calculations in order to provide an easy-to-follow structure to the students, without comprising content or rigor.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b> a.	Complete and Current</b><br>The content in the textbooks is self-contained and sufficient to address effectively the learning targets of the curriculum. The content is not only current but also relevant and accurate. The core elements of the subject curriculum are included. We have ensured that no superfluous information is covered. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>b.	Example and Illustrations</b><br>&nbsp;&nbsp;&nbsp;&nbsp;There are adequate examples and illustrations that are not only interesting but also relevant to students’ experience. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>c.	Difficulty Level</b><br>&nbsp;&nbsp;&nbsp;&nbsp;The level of difficulty of the content is consistent with the examination requirements. An appropriate balance is maintained between depth and breadth in the treatment of the subject content.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>d.	Layout</b><br>&nbsp;&nbsp;&nbsp;&nbsp;The layout of the content is consistent and student friendly. The book uses large font sizes and reader friendly color schemes for better grasp and retention. In our textbooks, all the examples, illustrations and mnemonics are clearly identified for easy reference. All the in-text examples are in blue and illustrative exhibits are presented with an orange background. Illustrative journal entries and formula are presented in pink for quick revision and easy reference.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>e.	Appropriate Structure</b><br>&nbsp;&nbsp;&nbsp;&nbsp;An appropriate structure of the content is provided to students to ensure quick and smooth learning. The content sequence is not only appropriate and but also logical. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>f.	Mnemonics </b><br>&nbsp;&nbsp;&nbsp;&nbsp;The content explains concepts using mnemonics that not only facilitate easy recall but also make sense.</p>

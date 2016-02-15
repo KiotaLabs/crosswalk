@@ -505,6 +505,7 @@ img.size-full, img.size-large {
   display: inline-block;
   text-align: center;
   line-height: 1em;
+    padding:0px
 }
 .btn .button {
   display: inline-block;
@@ -1395,6 +1396,21 @@ footer .copyrights p a:hover {
 .section-hero .hero-slider .slides .slide:nth-of-type(3) {
   background: url(../img/hero-3.jpg);
 }
+
+.section-hero .hero-slider .slides .slide:nth-of-type(4) {
+  background: url(../img/hero-4.jpg);
+}
+.section-hero .hero-slider .slides .slide:nth-of-type(5) {
+  background: url(../img/hero-5.jpg);
+}
+
+.section-hero .hero-slider .slides .slide:nth-of-type(6) {
+  background: url(../img/hero-6.jpg);
+}
+.section-hero .hero-slider .slides .slide:nth-of-type(7) {
+  background: url(../img/hero-7.jpg);
+}
+
 .section-hero .hero-slider .slider-component {
   position: relative;
   top: -75px;

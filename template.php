@@ -10,13 +10,30 @@
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-   
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
     <!-- Style CSS -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="css/bootstrap.css" />
+<!--    <link rel="stylesheet" href="css/bootstrap.css" />-->
+<!--        <link rel="stylesheet" href="css/reset.css">-->
+
     <link rel="stylesheet" href="css/lightbox.css" />
     <link rel="stylesheet" href="css/icomoon.css" />
     <link rel="stylesheet" href="css/screen.css" />
+
+    <script type="text/javascript" src="http://www.parsecdn.com/js/parse-latest.js"></script>  
+    <script src="//www.parsecdn.com/js/parse-1.6.7.min.js"></script>
+    
+    <script type="text/javascript">
+				Parse.initialize("RLQtNFNn6IqX9KSve9kGS1OIIXXuWsE6a5PcYVyn", "XJKivLSRmxyN7cztwk9uPlHpQmBrzjWQU1zBuAux");		      
+
+    </script>
+	</head>
+	
+
+    
 </head>
 
 <body id="front-page" data-smooth-scroll="on">
@@ -27,12 +44,18 @@
 		
 		<!-- Header -->
 		<!-- style="background:#000" -->
-		<header>
-			<div class="container" >
+		<header style="background: rgba(67, 185, 199, 0.9);">
+			<div class="container"  >
+                <div style="padding:10px 0px 20px 0px; height:30px; color:white; margin-top:-20px" id="contactText"><i class="fa fa-phone"></i>&nbsp;&nbsp;+91-999999999 &nbsp;&nbsp; | &nbsp;&nbsp;<i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:info@crosswalkcpareview.com" style="color:white; "> info@crosswalkcpareview.com </a></div>
+                
+                <div class="row">
+                
+                </div>
 				<div class="row">
 					<div class="col-xs-4 col-sm-2">
 						<a class="brand" href="index.php">
-							<img src="img/logo.png" alt="identity" style="height:50px"/>
+<!-- 						 style="height:50px" -->
+							<img src="img/logo.png" style="padding-top:10px" />
 						</a>
 					</div>
 
@@ -41,8 +64,10 @@
 							<ul class="social-block">
 								<li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+<!--
 								<li><a href="https://www.pinterest.com/"><i class="fa fa-pinterest"></i></a></li>
 								<li><a href="https://dribbble.com/"><i class="fa fa-dribbble"></i></a></li>
+-->
 							</ul>
 
 							<!-- 
@@ -59,6 +84,7 @@
 								</span>
 							</span>
 
+<!--
 							<div class="shopping-cart">
 								<span class="shopping-cart-toggle icon-carticon">
 									<span class="cart-items-total">2</span>
@@ -94,8 +120,9 @@
 									</div>
 								</div>
 							</div>
+-->
 <!--  href="myaccount.html" -->
-							<a class="login" STYLE="COLOR:WHITE"> REGISTER/LOGIN
+							<a class="login" STYLE="padding-left:10px;COLOR:WHITE"> REGISTER/LOGIN
 							<!--<span class="icon icon-MyAccount"></span><span class="popup">My account</span>--></a>
 						</div>
 					</div>
@@ -141,9 +168,95 @@
 		</header>
 	
 	</div>
+    
+  <!-- Modal -->
+      <div class="modal fade" id="queryModal" role="dialog">
+        <div class="modal-dialog">
 
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">QUERY</h4>
+            </div>
+            <div class="modal-body">
+              <form role="form">
+			
+		
+		   <div class="form-group">
+			  <input type="text" class="form-control" id="nameField" placeholder="NAME">
+			</div>
+			
+			 <div class="form-group">
+			  <input type="text" class="form-control" id="emailField" placeholder="EMAIL ADDRESS">
+			</div>
+			
+			<div class="form-group">
+			 
+			  <input type="text" class="form-control" id="contactField" placeholder="CONTACT NUMBER">
+			</div>
+			
+			 <div class="form-group">
+			 
+			  <input type="text" class="form-control" id="cityField" placeholder="CITY">
+			</div>
+			
+			 <div class="form-group">
+			  <input type="text" class="form-control" id="messageField" placeholder="MESSAGE">
+			</div>
+			
+<!--			   <button type="submit" id="signInsignUpButton">SIGN IN</button> -->
+		</div> 
+					</form>
+           
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal" style="padding:5px" onclick="sendQuery()">SUBMIT</button>
+            </div>
+               </div>
+          </div>
+
+        </div>
+  
+  
+    
+
+    <div id="floatDiv" style="text-align:center" class="btn btn-info btn-lg" data-toggle="modal" data-target="#queryModal">
+             <div style="padding:0px 15px">  
+                <h4> <i class="fa fa-question-circle" id="queryIcon" ></i></h4>
+            <p style="color:white;" id="queryText">Query?</p>
+            </div>
+        </div>
+
+     <style type="text/css">
+        #floatDiv {
+        position:fixed;
+        right:0%;
+        margin-top:200px;
+        z-index: 99;
+        background-color: #43b9c7;
+    }
+         
+         @media screen and (max-width: 768px) {
+             #queryIcon{color:white; font-size:20px}
+             #queryText{display:none}
+             #contactText{font-size: 10px}
+}
+         
+         @media screen and (min-width: 768px) {
+             #queryIcon{color:white; font-size:40px}
+             #queryText{display:block}
+             #contactText{font-size: 15px}
+
+}
+         
+            
+    </style>
+    
 	<!-- Scripts -->
+        
+    
 	<script src="http://maps.googleapis.com/maps/api/js"></script>
+
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery-ui.js"></script>
 	<script src="js/lightbox.js"></script>
@@ -154,5 +267,74 @@
 	<script src="js/smooth-scroll.js"></script>
 	<script src="js/bxslider.js"></script>
 	<script src="js/options.js"></script>
+    
+    <script>
+        $(document).ready(function(){
+    $("#floatDiv").click(function(){
+        $("#queryModal").modal();    
+    });
+});
+    </script>
+    
+    	<script type="text/javascript">
+		
+        function sendQuery(){
+        var x = document.getElementById("emailField");
+        var a = validateEmail(x);
+         
+         
+        if (a == true){
+
+             var emailText = x.value;
+             if (emailText == null || emailText == "") {
+                alert('Invalid Email Address');       
+                return false;
+              }
+         
+            var queryObject = Parse.Object.extend("CrosswalkCPA");
+            var query = new queryObject();
+            
+            var cityText = document.getElementById("cityField").value;
+            var nameText = document.getElementById("nameField").value;
+            var contactText = document.getElementById("contactField").value;
+            var messageText = document.getElementById("messageField").value;
+         
+            query.set("emailID", emailText);
+            query.set("name", nameText);
+            query.set("contactNumber", contactText);
+            query.set("city", cityText);
+            query.set("message", messageText);
+
+            query.save(null, {
+         
+                success: function(query) {
+                    alert('Thanks for Submiting a Query. We will get back to you shortly.');
+      
+                    x.value = "";
+                
+                },
+        error: function(query, error) {}
+                
+            });
+         }
+         
+         else{
+                alert('Invalid Email Address')
+         }
+     }
+        
+        function validateEmail(emailField){
+        var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+            if (reg.test(emailField.value) == false) 
+            {
+                return false;
+            }
+
+        return true;
+
+}
+    </script>
+    
 </body>
 </html>

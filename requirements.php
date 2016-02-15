@@ -2,6 +2,7 @@
 
 	<!-- Page Wrapper -->
 	<div id="page">
+	
 		<!-- Register Poup -->
 		<div class="register-popup">
 			<div class="popup-wrapper">
@@ -87,8 +88,6 @@
 				</form>
 			</div>
 		</div>
-		
-		
 
 		<!-- Main Content -->
 		<div class="content-wrapper">
@@ -118,12 +117,12 @@
 									<h4>Eligibility Requirements</h4>
 									<p>In order to sit for the Uniform CPA Exam, a candidate must meet the eligibility requirements of any one of the 55 states or jurisdictions of the United States. Each state sets its own educational requirements. However, most state boards require a minimum of 150 hours of post-secondary education from a regionally accredited institution and specify a minimum number of college credits in various accounting topics and business law. To obtain 150 hours of post-secondary education, generally a master’s degree in accounting or taxation is suffice. Although, a master’s degree is advised but is not an essential requirement. A candidate may meet the requirement by taking additional courses without a master’s degree. The exact requirements vary from state to state and you may contact our Eligibility Team (info@crosswalkcpa.com) for insight on this. 
 									<br><br><br>Please read the Candidate Bulletin or click the link below to determine the specific state eligibility requirements. </p>
-									<p> <a href="http://nasba.org/exams/cpaexam/">Open Link</a></p>
+									<p> <a href="http://nasba.org/exams/cpaexam/" target="_blank">Open Link</a></p>
 									
 									<h4>International Education Evaluation</h4>
 									<p>Candidates who received their education from a college or university outside the United States, they must have their transcripts evaluated by a recognized evaluation service to determine whether they meet the eligibility requirements of the state for which they are applying.
 									<br><br><br>You may click on the link below to get specific information on each state’s eligibility requirements.</p>
-									<p> <a href="http://nasba.org/exams/cpaexam/">Open Link</a></p>
+									<p> <a href="http://nasba.org/exams/cpaexam/" target="_blank">Open Link</a></p>
 
 									
 									<h4>Applying for the Exam</h4> 
@@ -191,7 +190,6 @@ Candidates can schedule an examination appointment using internet. One can resch
 			</div>
 		</div>
 
-		
 	</div>
 
 <?php include('footer.php'); ?>

@@ -89,7 +89,7 @@
 		<!-- Main Content -->
 		<div class="content-wrapper">
 			<!-- Hero Section -->
-			<section class="section-hero">
+			<section class="section-hero" style="margin-top:-10px">
 				<!-- Main Slider -->
 				<div class="hero-slider">
 					<ul class="container custom-nav">
@@ -101,10 +101,15 @@
 						</li>
 					</ul>
 					<ul class="slides">
+                        
 						<li class="slide">
 							<div class="container">
 								<div class="slide-content">
-									<h1 class="heading slider-component">Experience delightful learning. Starting Now.
+									<h1 class="heading slider-component">
+                                        Join a community of professionals and allow new career opportunities to enter your world.
+<!--                                        Experience delightful learning. Starting Now.-->
+                                        
+                                        
 <!-- 									 <a class="popup-holder" href="#"> -->
 <!-- 										<span class="typed">now </span> -->
 										<!-- 
@@ -122,22 +127,12 @@
 							</div>
 						</li>
 
-						<li class="slide">
+					    <li class="slide">
 							<div class="container">
 								<div class="slide-content">
-									<h1 class="heading slider-component">Choose something unique. Choose Us!
-									<!-- 
- <a class="popup-holder" href="#">
-										<span class="typed"></span>
-										<span class="popup">
-									
- -->		<!-- 
-<span class="title">Best courses</span>
-											Crosswalk Website (new features: fully responsive, 1200px grid, SVG and Retina ready elements, page loading speed optimizations, updated payment system, etc.)
-										</span>
- -->
-<!-- 									</a> -->
-									</h1>
+									<h1 class="heading slider-component">
+                                           Hop on to the fantastic voyage of becoming a CPA. Get onboard.
+									</a></h1>
 
 									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
 										<span class="button">Browse courses</span>
@@ -146,22 +141,12 @@
 							</div>
 						</li>
 
-						<li class="slide">
+                        <li class="slide">
 							<div class="container">
 								<div class="slide-content">
-									<h1 class="heading slider-component">Build your future. Join us Today.
-									<!-- 
-<a class="popup-holder" href="#">
-										<span class="typed"></span>
-										<span class="popup">
-									
- -->		<!-- 
-<span class="title">Best courses</span>
-											Crosswalk Website (new features: fully responsive, 1200px grid, SVG and Retina ready elements, page loading speed optimizations, updated payment system, etc.)
-										</span>
- -->
-<!-- 									</a> -->
-									</h1>
+									<h1 class="heading slider-component">
+                                            Transform yourself and your everyday life by becoming a CPA! Be the change.
+									</a></h1>
 
 									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
 										<span class="button">Browse courses</span>
@@ -169,6 +154,63 @@
 								</div>
 							</div>
 						</li>
+
+                        <li class="slide">
+							<div class="container">
+								<div class="slide-content">
+									<h1 class="heading slider-component">
+                                            Get the degree you need to take your career to the next level. Get CPA.
+									</a></h1>
+
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
+										<span class="button">Browse courses</span>
+									</a>
+								</div>
+							</div>
+						</li>
+
+                        <li class="slide">
+							<div class="container">
+								<div class="slide-content">
+									<h1 class="heading slider-component">
+                                            How does the world look through the special lenses of "CPA"? Bold and Beautiful.
+									</a></h1>
+
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
+										<span class="button">Browse courses</span>
+									</a>
+								</div>
+							</div>
+						</li>
+
+                        <li class="slide">
+							<div class="container">
+								<div class="slide-content">
+									<h1 class="heading slider-component">
+                                            You put in hard work. Our review program helps you pass.
+									</a></h1>
+
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
+										<span class="button">Browse courses</span>
+									</a>
+								</div>
+							</div>
+						</li>
+                
+					    <li class="slide">
+							<div class="container">
+								<div class="slide-content">
+									<h1 class="heading slider-component">
+                                            Become a CPA to take your knowledge to the next level with the skills required to climb the corporate ladder.
+									</a></h1>
+
+									<a href="courses-list.php" class="slider-component second-row btn theme-btn-1">
+										<span class="button">Browse courses</span>
+									</a>
+								</div>
+							</div>
+						</li>
+                
 					</ul>
 				</div>
 			</section>
@@ -249,11 +291,11 @@
 				</div>
 
 				<div class="row row-fit">
-					<div class="col-md-6">
+					<div class="col-md-6" id="courseOne" class="btn btn-info btn-lg" data-toggle="modal" data-target="#courseOneModal">
 						<div class="course-preview design">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-grid.php" class="description">
+								<a class="description">
 									<h4 class="title">Auditing and Attestation</h4>
 									<p>Auditing procedures, generally accepted auditing standards and other standards related to attest engagements.</p>
 								</a>
@@ -261,11 +303,11 @@
 						</div>
 					</div>
 
-					<div class="col-md-6">
+                    <div class="col-md-6" id="courseTwo" class="btn btn-info btn-lg" data-toggle="modal" data-target="#courseTwoModal" >
 						<div class="course-preview business">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-list.php" class="description">
+								<a  class="description">
 									<h4 class="title">Regulation</h4>
 									<p>Federal taxation, professional and legal responsibilities, ethics, and business law, and the skills required to apply that knowledge.</p>
 								</a>
@@ -273,11 +315,11 @@
 						</div>
 					</div>
 
-					<div class="col-md-6">
+					<div class="col-md-6" id="courseThree" class="btn btn-info btn-lg" data-toggle="modal" data-target="#courseThreeModal">
 						<div class="course-preview health">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-grid.php" class="description">
+								<a  class="description">
 									<h4 class="title">Financial Accounting and Reporting</h4>
 									<p>Accounting principles for business enterprises, not-for- profit organizations, and governmental entities.</p>
 								</a>
@@ -285,11 +327,11 @@
 						</div>
 					</div>
 
-					<div class="col-md-6">
+					<div class="col-md-6" id="courseFour" class="btn btn-info btn-lg" data-toggle="modal" data-target="#courseFourModal">
 						<div class="course-preview hospitality">
 							<div class="course-wrapper">
 								<span class="bg"></span>
-								<a href="courses-list.php" class="description">
+								<a  class="description">
 									<h4 class="title">Business Environment and Concepts</h4>
 									<p>that candidates should know in order to understand the business reasons for and accounting implications of transactions.</p>
 								</a>
@@ -551,13 +593,12 @@
 							<h2>START FREE TRAIL</h2>
 						</div>
 					
-					<!-- 
-<div class="col-md-3">
-							<input type="text" placeholder="Email Address" style="width:100%; margin-top:10px; height:35px;  border-radius:3px; padding:5px"/>
-						</div>
-					
- -->
-					
+                        <!-- 
+                        <div class="col-md-3">
+                                <input type="text" placeholder="Email Address" style="width:100%; margin-top:10px; height:35px;  border-radius:3px; padding:5px"/>
+                        </div>
+                        -->
+
 						<div class="col-md-2">
 							<div class="button-wrapper">
 								<a href="404.php" class="btn theme-btn-3">DEMO</a>
@@ -570,6 +611,153 @@
 			</div>
 		</div>
 
+		<!-- Modal -->
+      <div class="modal fade" id="courseOneModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" onclick="courseOneModalClose()">&times;</button>
+                <h4 class="title">Auditing and Attestation</h4>
+            </div>
+            <div class="modal-body">
+              <video id="courseOneVideo" width="100%" controls >
+                    <source src="videos/test.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+              </video>
+                
+                
+<!--
+                <div class="modal-footer">
+                    <center><button type="button" class="btn btn-default" data-dismiss="modal" style="padding:5px" onclick="courseOneModalClose()">CLOSE</button></center>
+                </div>
+-->
+            </div>
+          </div>
+        </div>
+       </div>
+
+      <div class="modal fade" id="courseTwoModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" onclick="courseTwoModalClose()">&times;</button>
+                <h4 class="title">Regulation</h4>
+            </div>
+            <div class="modal-body">
+              <video id="courseTwoVideo" width="100%" controls >
+                    <source src="videos/test.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+              </video>
+                
+                
+<!--
+              <div class="modal-footer">
+                    <center><button type="button" class="btn btn-default" data-dismiss="modal" style="padding:5px" onclick="courseOneModalClose()">CLOSE</button></center>
+                </div>
+-->
+                </div>
+            </div>
+          </div>
+        </div>
+       </div>
+
+      <div class="modal fade" id="courseThreeModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" onclick="courseThreeModalClose()">&times;</button>
+                <h4 class="title">Financial Accounting and Reporting</h4>
+            </div>
+            <div class="modal-body">
+              <video id="courseThreeVideo" width="100%" controls >
+                    <source src="videos/test.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+              </video>
+                
+                
+<!--
+                 <div class="modal-footer">
+                    <center><button type="button" class="btn btn-default" data-dismiss="modal" style="padding:5px" onclick="courseOneModalClose()">CLOSE</button></center>
+                </div>
+-->
+                </div>
+            </div>
+          </div>
+        </div>
+       </div>
+
+      <div class="modal fade" id="courseFourModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" onclick="courseFourModalClose()">&times;</button>
+                <h4 class="title">Business Environment and Concepts</h4>
+            </div>
+            <div class="modal-body">
+              <video id="courseFourVideo" width="100%" controls >
+                    <source src="videos/test.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+              </video>
+                
+<!--
+                
+                 <div class="modal-footer">
+                    <center><button type="button" class="btn btn-default" data-dismiss="modal" style="padding:5px" onclick="courseOneModalClose()">CLOSE</button></center>
+                </div>
+-->
+            </div>
+          </div>
+        </div>
+       </div>
 		
-		
+
+    <script>
+        $(document).ready(function(){
+            $("#courseOne").click(function(){
+                $("#courseOneModal").modal();    
+            });
+            
+            $("#courseTwo").click(function(){
+                $("#courseTwoModal").modal();    
+            });
+            
+            $("#courseThree").click(function(){
+                $("#courseThreeModal").modal();    
+            });
+            
+            $("#courseFour").click(function(){
+                $("#courseFourModal").modal();    
+            });
+        });
+            
+        function courseOneModalClose(){
+            var myVideo = document.getElementById("courseOneVideo"); 
+            myVideo.pause();
+        }
+        
+        function courseTwoModalClose(){
+            var myVideo = document.getElementById("courseTwoVideo"); 
+            myVideo.pause();
+        }
+        
+        function courseThreeModalClose(){
+            var myVideo = document.getElementById("courseThreeVideo"); 
+            myVideo.pause();
+        }
+        
+        function courseFourModalClose(){
+            var myVideo = document.getElementById("courseFourVideo"); 
+            myVideo.pause();
+        }
+            
+    </script>
+    
 <?php include('footer.php'); ?>
