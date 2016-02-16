@@ -224,15 +224,24 @@
 				<div class="box-img"><span></span></div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7">
-							<h2>Enjoy our courses Today</h2>
+					<div class="col-md-3"></div>
+						<div class="col-md-4">
+							<h2>START FREE TRAIL</h2>
 						</div>
+					
+                        <!-- 
+                        <div class="col-md-3">
+                                <input type="text" placeholder="Email Address" style="width:100%; margin-top:10px; height:35px;  border-radius:3px; padding:5px"/>
+                        </div>
+                        -->
 
-						<div class="col-md-5">
+						<div class="col-md-2">
 							<div class="button-wrapper">
-								<a href="#" class="btn theme-btn-3">Get in touch</a>
+								<a href="404.php" class="btn theme-btn-3">DEMO</a>
 							</div>
 						</div>
+						
+						<div class="col-md-3"></div>
 					</div>
 				</div>
 			</div>

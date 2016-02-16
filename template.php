@@ -133,12 +133,12 @@
 				<ul>
 					<li class="current-menu-item"><a href="index.php">Home</a></li>
 					<li>
-						<a href="courses-grid.php">Courses</a>
+						<a href="courses-list.php">Courses</a>
 						<ul>
-							<!--<li><a href="courses-grid.html">Grid overlay</a></li>-->
-							<li><a href="courses-list.php">Subjects</a></li>
-							<li><a href="pricing.php">Pricing</a></li>
-							<li><a href="404.php">Demo</a></li>
+							<li><a href="whyCrosswalk.php">Why Crosswalk?</a></li>
+							<li><a href="courses-list.php">Classes and Online</a></li>
+							<li><a href="pricing.php">Select Package</a></li>
+							<li><a href="404.php">Free Trail</a></li>
 						</ul>
 					</li>
 					<li>
@@ -147,7 +147,6 @@
 							<li><a href="whatIsCPA.php">What is CPA?</a></li>
 							<!-- <li><a href="pricing.html">Pricing</a></li> -->
 							<li><a href="requirements.php">State CPA requirements</a></li>
-							<li><a href="whyCrosswalk.php">Why Crosswalk?</a></li>
 							<!--<li><a href="myaccount.html">My Account</a></li>-->
 						</ul>
 					</li>
@@ -205,7 +204,6 @@
 			  <input type="text" class="form-control" id="messageField" placeholder="MESSAGE">
 			</div>
 			
-<!--			   <button type="submit" id="signInsignUpButton">SIGN IN</button> -->
 		</div> 
 					</form>
            

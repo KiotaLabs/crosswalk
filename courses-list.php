@@ -102,7 +102,7 @@
 
 			<!-- Courses Section -->
 			<section class="section-courses">
-				<div class="filters-box">
+			<!--	<div class="filters-box">
 					<div class="box-heading">
 						<div class="container">
 							<ul class="courses-filters">
@@ -224,7 +224,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 
 				<div class="projects">
 					<div class="container">
@@ -235,14 +235,15 @@
 						</div>
 
 						<div class="ajax-target">
+                            
 							<div class="single-course list-course">
 								<div class="row">
 									<div class="col-md-4 col-sm-6">
 										<div class="course-thumbnail">
-											<a href="course-online.html" class="cover-info">
+											<a  class="cover-info">
 												<div class="text">
-													<h4>Don't miss this course</h4>
-													<p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able.</p>
+													<h4>Auditing and Attestation</h4>
+													<p>Auditing procedures, generally accepted auditing standards and other standards related to attest engagements.</p>
 												</div>
 											</a>
 
@@ -253,7 +254,7 @@
 									<div class="col-md-4 col-sm-6">
 										<div class="course-details">
 											<h3 class="title">
-												<a href="course.html">Audit</a>
+												<a>Auditing and Attestation</a>
 											</h3>
 
 											<ul class="course-meta">
@@ -262,6 +263,7 @@
 												<li><span>Category:</span> CPA</li>
 											</ul>
 
+<!--
 											<div class="course-action">
 												<a href="courses-course.html" class="btn theme-btn-1 register-btn">
 													<span class="button">Register</span>
@@ -269,12 +271,13 @@
 
 												<span class="price">$39</span>
 											</div>
+-->
 										</div>
 									</div>
 
 									<div class="col-md-4 col-sm-12">
 										<div class="course-description">
-											<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed.</p>
+											<p>The AUD section tests auditing procedures, generally accepted auditing standards and other standards related to attest engagements. This section also tests knowledge of professional responsibilities of certified public accountants, including ethics and independence.<br><br>The AUD section is generally considered the hardest section of all the 4 sections. This section does not test the memory skills but tests the knowledge of the candidate in applying the audit and attestation knowledge in solving problems. The differences between ISAs and U.S. auditing standards are included on the AUD Exam.</p>
 										</div>
 									</div>
 								</div>
@@ -284,10 +287,10 @@
 								<div class="row">
 									<div class="col-md-4 col-sm-6">
 										<div class="course-thumbnail">
-											<a href="course-online.html" class="cover-info">
+											<a class="cover-info">
 												<div class="text">
-													<h4>Don't miss this course</h4>
-													<p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able.</p>
+													<h4>Regulation</h4>
+													<p>Federal taxation, professional and legal responsibilities, ethics, and business law, and the skills required to apply that knowledge.</p>
 												</div>
 											</a>
 
@@ -298,7 +301,7 @@
 									<div class="col-md-4 col-sm-6">
 										<div class="course-details">
 											<h3 class="title">
-												<a href="course.html">Regulation</a>
+												<a>Regulation</a>
 											</h3>
 
 											<ul class="course-meta">
@@ -307,6 +310,7 @@
 												<li><span>Category:</span> CPA</li>
 											</ul>
 
+<!--
 											<div class="course-action">
 												<a href="#" class="btn theme-btn-1 enroll-btn">
 													<span class="button">Enroll</span>
@@ -314,12 +318,13 @@
 												<span class="price">$19</span>
 												<span class="save-btn icon-heart5"><span class="popup">saved</span></span>
 											</div>
+-->
 										</div>
 									</div>
 
 									<div class="col-md-4 col-sm-12">
 										<div class="course-description">
-											<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed.</p>
+											<p>REG covers federal taxation, professional and legal responsibilities, ethics, and business law. <br><br>REG is a difficult section for the CPA exams. The section is vast and focuses on knowledge and understanding of the concepts. Federal taxation can be up to 60% of the exam score. Business law topics test knowledge and understanding of the legal implications of business transactions, to the extent they relate to auditing and financial reporting. Most of the question on professional ethics relate to tax practice issues.</p>
 										</div>
 									</div>
 								</div>
@@ -329,10 +334,10 @@
 								<div class="row">
 									<div class="col-md-4 col-sm-6">
 										<div class="course-thumbnail">
-											<a href="course.html" class="cover-info">
+											<a class="cover-info">
 												<div class="text">
-													<h4>Don't miss this course</h4>
-													<p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able.</p>
+													<h4>Financial Accounting and Reporting</h4>
+													<p>Accounting principles for business enterprises, not-for- profit organizations, and governmental entities.</p>
 												</div>
 											</a>
 
@@ -343,7 +348,7 @@
 									<div class="col-md-4 col-sm-6">
 										<div class="course-details">
 											<h3 class="title">
-												<a href="course.html">3. Business Environment and Concepts</a>
+												<a>Financial Accounting and Reporting</a>
 											</h3>
 
 											<ul class="course-meta">
@@ -352,6 +357,7 @@
 												<li><span>Category:</span> CPA</li>
 											</ul>
 
+<!--
 											<div class="course-action">
 												<a href="courses-course.html" class="btn theme-btn-1 register-btn">
 													<span class="button">Register</span>
@@ -359,12 +365,13 @@
 
 												<span class="price">$42</span>
 											</div>
+-->
 										</div>
 									</div>
 
 									<div class="col-md-4 col-sm-12">
 										<div class="course-description">
-											<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less.</p>
+											<p>FAR covers generally accepted accounting principles (GAAP) for business enterprises, not-for- profit organizations, and governmental entities. GAAP include standards issued by the FASB, IASB, SEC and GASB. <br><br>FAR is the most recognizable section for students. It covers material from nearly every financial accounting course in college. Both US GAAP and IFRS are included on the FAR Exam and the candidates need to be familiar with both. Governmental and non-profit accounting can be up to 25% of the exam score. </p>
 										</div>
 									</div>
 								</div>
@@ -374,10 +381,10 @@
 								<div class="row">
 									<div class="col-md-4 col-sm-6">
 										<div class="course-thumbnail">
-											<a href="course.html" class="cover-info">
+											<a  class="cover-info">
 												<div class="text">
-													<h4>Don't miss this course</h4>
-													<p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able.</p>
+													<h4>Business Environment and Concepts</h4>
+													<p>That candidates should know in order to understand the business reasons for and accounting implications of transactions.</p>
 												</div>
 											</a>
 
@@ -388,15 +395,16 @@
 									<div class="col-md-4 col-sm-6">
 										<div class="course-details">
 											<h3 class="title">
-												<a href="course-offline.html">4. Financial Accounting and Reporting</a>
+												<a>Business Environment and Concepts</a>
 											</h3>
 
 											<ul class="course-meta">
 												<li><span>Instructor:</span> Vipul Mittal</li>
-												<li><span>Type:</span> Offline</li>
+												<li><span>Type:</span> Online</li>
 												<li><span>Category:</span> CPA</li>
 											</ul>
 
+<!--
 											<div class="course-action">
 												<a href="courses-course.html" class="btn theme-btn-1 register-btn">
 													<span class="button">Register</span>
@@ -404,18 +412,20 @@
 
 												<span class="price">$49</span>
 											</div>
+-->
 										</div>
 									</div>
 
 									<div class="col-md-4 col-sm-12">
 										<div class="course-description">
-											<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed.</p>
+											<p>REG covers federal taxation, professional and legal responsibilities, ethics, and business law. <br><br>REG is a difficult section for the CPA exams. The section is vast and focuses on knowledge and understanding of the concepts. Federal taxation can be up to 60% of the exam score. Business law topics test knowledge and understanding of the legal implications of business transactions, to the extent they relate to auditing and financial reporting. Most of the question on professional ethics relate to tax practice issues.</p>
 										</div>
 									</div>
 								</div>
 							</div>
 
 
+<!--
 							<ul class="page-numbers">
 								<li>
 									<a href="#" class="page-numbers">1</a>
@@ -429,6 +439,7 @@
 									<a class="page-numbers" href="#">3</a>
 								</li>
 							</ul>
+-->
 						</div>
 					</div>
 				</div>
@@ -439,15 +450,24 @@
 				<div class="box-img"><span></span></div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7">
-							<h2>Enjoy our courses Today</h2>
+					<div class="col-md-3"></div>
+						<div class="col-md-4">
+							<h2>START FREE TRAIL</h2>
 						</div>
+					
+                        <!-- 
+                        <div class="col-md-3">
+                                <input type="text" placeholder="Email Address" style="width:100%; margin-top:10px; height:35px;  border-radius:3px; padding:5px"/>
+                        </div>
+                        -->
 
-						<div class="col-md-5">
+						<div class="col-md-2">
 							<div class="button-wrapper">
-								<a href="#" class="btn theme-btn-3">Get in touch</a>
+								<a href="404.php" class="btn theme-btn-3">DEMO</a>
 							</div>
 						</div>
+						
+						<div class="col-md-3"></div>
 					</div>
 				</div>
 			</div>

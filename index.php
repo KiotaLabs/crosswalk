@@ -219,7 +219,7 @@
 			<section class="section-services">
 				<div class="container">
 					<div class="section-header">
-						<h1>Services</h1>
+						<h1>Get the Best</h1>
 					</div>
 
 					<div class="row">
@@ -333,7 +333,7 @@
 								<span class="bg"></span>
 								<a  class="description">
 									<h4 class="title">Business Environment and Concepts</h4>
-									<p>that candidates should know in order to understand the business reasons for and accounting implications of transactions.</p>
+									<p>That candidates should know in order to understand the business reasons for and accounting implications of transactions.</p>
 								</a>
 							</div>
 						</div>

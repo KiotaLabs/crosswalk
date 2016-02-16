@@ -59,7 +59,11 @@
 					</div>
 
 					<div class="copyrights">
-						<p>Copyright 2015. Crosswalk Professional Education Pvt Ltd</p>
+						<p>Copyright 2015. Crosswalk Professional Education Pvt Ltd   &nbsp; | &nbsp;
+                        <a href="privacyPolicy.php">Privacy Policy  &nbsp; | &nbsp;</a>
+                        <a href="userAgreement.php">User Agreement</a>
+                        </p>
+                    
 					</div>
 				</div>
 			</div>
