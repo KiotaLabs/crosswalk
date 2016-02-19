@@ -107,50 +107,199 @@
 					
 
 					<div class="post-body">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2" style="text-align:justify">
+				    
+                            <center>
+                            
+                            <div class="row">
+                                <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <img src="img/smallLogo.png" style="height:120px;"/>
+                                    <h1>About Crosswalk</h1>
+                                    <p style="padding:10px">Crosswalk specializes in preparing students for CPA exams and offers a complete CPA exam review program. We are focused on creating value and providing highest quality and exam oriented training to our students. We have a team of experts who help our students pass the CPA exam. A journey with Crosswalk CPA Review is divided into 4 papers (FAR, REG, AUD, BEC). By enrolling in this course, you will gain access to:</p>
+                                </div>
+                                <div class="col-md-1 col-xs-12"></div>
+                            </div>
+                            
+                            <div class="row">
+                               <div class="col-md-12 col-xs-12"> <p>
+                                    
+                                <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-book" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">8 Textbooks</h4>
+                                </div>
+                                
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-file-video-o" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Video classes</h4>
+                                </div>
+                                
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-paperclip" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Supplementary material</h4>
+                                </div>
+                                
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-question" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Printed question bank</h4>
+                                </div>
+                                
+                                   </p></div></div>
+                        
+                            <div class="row">
+                            <div class="col-md-12 col-xs-12">
+                                <p>
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-square-o" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Printed flashcards</h4>
+                                </div>
+                                
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-file-audio-o" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Audio lectures</h4>
+                                </div>
+                                
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-phone" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Online student support</h4>
+                                </div>
+                                
+                                 <div class="col-xs-12 col-md-3 x-small">
+                                    <i class="icon fa fa-refresh" style="font-size:40px; color:#43b9c7"></i>
+								    <h4 class="title" style="color:#43b9c7">Regular updates</h4>
+                                </div>
+                              
+                                </p></div></div>
 
-									<!-- 
-<blockquote>
-										<p>"But in certain circumstances and owing to the claims of a duty or the obligation of business it will frequently occur that pleasures have to be repudiated and annoyances accepted."</p>
-									</blockquote>
- -->
-									<h4>About Crosswalk</h4>
-									<p>Crosswalk specializes in preparing students for CPA exams and offers a complete CPA exam review program. We are focused on creating value and providing highest quality and exam oriented training to our students. We have a team of experts who help our students pass the CPA exam. We provide total support to our students in passing the exams and getting the CPA license.  A journey with Crosswalk CPA Review is divided into 4 papers (FAR, REG, AUD, BEC). By enrolling in this course, you will gain access to:<br>•	8 Textbooks<br>•	Supplementary material<br>•	Printed question bank (AICPA released questions)<br>•	Printed flashcards<br>•	Audio lectures<br>•	Online access to question bank, flashcards and audio lectures<br>•	Online student support<br>•	Regular updates<br>•	Licensing assistance<br><br>This is all you need to pass your CPA exams. So get all the tools to face the exams. We also provide total support to our students in passing the exams and getting the CPA license. </p>
+                            <div class="row">
+                                <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <p>This is all you need to pass your CPA exams. So get all the tools to face the exams. We also provide total support to our students in passing the exams and getting the CPA license. </p>
+                                </div>
+                  
+                                <div class="col-md-1 col-xs-12"></div></div>
+                    
+                            <div class="row">
+                    <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <h1>Why Crosswalk?</h1>
+                                    <p style="padding:10px">It is time for something better, something easier, something smarter and something trustier.</p>
+                                </div>
+                                <div class="col-md-1 col-xs-12"></div>
+                            </div>
+                        
+                    </center>
+                
+                            <div class="row">
+                               <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <h3>Textbooks</h3>
+                                    <p style="padding:10px">Designed for today’s students, the textbooks have an innovative and high-impact writing style that explains all the topics and concepts clearly and concisely. The author has used a variety of pedagogical tools to ensure that the learning is smooth and effective. The author has used direct sentences and step-by-step calculations in order to provide an easy-to-follow structure to the students, without compromising content or rigor.</p>
+                                </div>
+                                <div class="col-md-1 col-xs-12"></div>
+                            </div>
+                
+                            <center>
+                <div class="row" style="margin: 10px; ">
+                    
 
-									<h4>Why Crosswalk?</h4>
-									<p>It is time for something better, something easier, something smarter and something trustier.</p>
-									
-									<p><b>&nbsp;&nbsp; 1. TEXTBOOKS </b></p>
-									<p>Designed for today’s students, the textbooks have an innovative, high-impact writing style that explains topics clearly and concisely. The author has used a variety of pedagogical tools to ensure that the learning is smooth. The author has used direct sentences and step-by-step calculations in order to provide an easy-to-follow structure to the students, without comprising content or rigor.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b> a.	Complete and Current</b><br>The content in the textbooks is self-contained and sufficient to address effectively the learning targets of the curriculum. The content is not only current but also relevant and accurate. The core elements of the subject curriculum are included. We have ensured that no superfluous information is covered. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>b.	Example and Illustrations</b><br>&nbsp;&nbsp;&nbsp;&nbsp;There are adequate examples and illustrations that are not only interesting but also relevant to students’ experience. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>c.	Difficulty Level</b><br>&nbsp;&nbsp;&nbsp;&nbsp;The level of difficulty of the content is consistent with the examination requirements. An appropriate balance is maintained between depth and breadth in the treatment of the subject content.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>d.	Layout</b><br>&nbsp;&nbsp;&nbsp;&nbsp;The layout of the content is consistent and student friendly. The book uses large font sizes and reader friendly color schemes for better grasp and retention. In our textbooks, all the examples, illustrations and mnemonics are clearly identified for easy reference. All the in-text examples are in blue and illustrative exhibits are presented with an orange background. Illustrative journal entries and formula are presented in pink for quick revision and easy reference.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>e.	Appropriate Structure</b><br>&nbsp;&nbsp;&nbsp;&nbsp;An appropriate structure of the content is provided to students to ensure quick and smooth learning. The content sequence is not only appropriate and but also logical. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>f.	Mnemonics </b><br>&nbsp;&nbsp;&nbsp;&nbsp;The content explains concepts using mnemonics that not only facilitate easy recall but also make sense.</p>
-									
-									<p><b>&nbsp;&nbsp; 2. VIDEO LECTURES </b></p>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>a. Subtitles</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Our video lectures offers subtitles. The use of subtitles on videos makes the content easily digestible and improves your engagement level. Therefore, even if you do not have a very good understanding of the language it is taught in (that is, English), you can still make the most out of this course.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>b.	Trivia</b><br>&nbsp;&nbsp;&nbsp;&nbsp;“Did You Know?” Trivia are included in videos to give insight on the subject matter. <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>c.	Summaries</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Each video ends with a summary of the key points for the chapter. These summaries provide students with a quick review of the important topics and issues discussed in the video.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>d.	Animations</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Our videos use animations. Various difficult concepts have been depicted with short animations. Animations are a great way to facilitate understanding and have the potential to deliver content with a greater efficiency. </P>
-									
-									<p><b>&nbsp;&nbsp; 3. SUPPLEMENTARY MATERIAL </b></p>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;The review program includes supplementary material that ties directly to the textbook content. The supplementary material helps identify key concepts and provides students with a quick review of the important issues. </P>
-								
-									<p style="text-transform:uppercase"><b>&nbsp;&nbsp;4. Audio Lectures (Anywhere-Anytime Learning)</b></p>
-									<P>&nbsp;&nbsp;&nbsp;&nbsp;We know that you don’t never have enough time. So, we provide audio lectures in our course so that you are able to access the content anytime and anywhere. It is much more comfortable to listen to an audio lecture than read a textbook. The audio lectures provide you an alternative to text and a study aid that you can review after lecture. Audio lectures help you review large content in a short period of time. These audio lectures provide you with an occasional break from reading (and rereading the same concepts again and again) and a different way in which you can understand and grasp concepts.</p>
-								
-									<p style="text-transform:uppercase"><b>&nbsp;&nbsp;5.	Printed Flash Cards</b></p>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;We provide professionally produced flashcards (printed and online) that allow you to quickly revisit information and test your understanding. Using flashcards is considered more effective than reading a textbook and is particularly useful for recognizing the concept on a multiple-choice question.  Each time you practice a flashcard, you force your brain to remember a concept. This helps burn information into the brain as you make effort to recall a concept. The cards facilitate quick comparison when you reveal the answer side of a flashcard to access the accuracy of your response. Flash cards are a handy resource to have and are useful at every stage of your preparation for the CPA Exam. <b>We also provide a set of blank flashcards that you may use for creating your own flashcards.</b></p>
-								
-									<p style="text-transform:uppercase"><b>&nbsp;&nbsp;6.	Online Student Support</b></p>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;We provide online support to our students on any issue pertaining to the content. Our instructors and query solving team include senior educators from academia and the industry.</p>
-								
-									<p style="text-transform:uppercase"><b>&nbsp;&nbsp;7.	Printed Question Bank</b></p>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;We provide a large number of multiple-choice questions (both printed and online) that our students may practice. Our question bank includes questions released by AICPA.</p>
-								
-									<p style="text-transform:uppercase"><b>&nbsp;&nbsp;8.	Licensing Assistance</b></p>
-									<p>&nbsp;&nbsp;&nbsp;&nbsp;After passing the CPA Examination, the candidate may apply for a license to practice public accounting. We guide our students in obtaining the CPA license.</p>
-								
-								</div>
-							</div>
-						</div>
-					</div>
+                    <div class="col-xs-6 col-md-2 x-small" style="border-right:1px solid black; margin-top:20px;"><b>Complete and Current</b><br><br>The content in the textbooks is self-contained and sufficient to address effectively the learning targets of the curriculum. The content is not only current but also relevant and accurate.</div>
+                    <div class="col-xs-6 col-md-2 x-small" style="border-right:1px solid black;margin-top:20px;"><b>Examples and Illustrations</b><br><br>There are adequate examples and illustrations that are not only interesting but also relevant to students’ experience.</div>
+                    <div class="col-xs-6 col-md-2 x-small" style="border-right:1px solid black;margin-top:20px;"><b>Difficulty Level</b><br><br>The level of difficulty of the content is consistent with the examination requirements. An appropriate balance is maintained between depth and breadth in the treatment of the subject content.
+</div>
+                    <div class="col-xs-6 col-md-2 x-small" style="border-right:1px solid black;margin-top:20px;"><b>Layout</b><br><br>The layout of the content is consistent and student friendly. The book uses large font sizes and reader friendly color schemes for better grasp and retention. All the examples, illustrations and mnemonics are clearly identified for easy reference.
+</div>
+                    <div class="col-xs-6 col-md-2 x-small" style="border-right:1px solid black;margin-top:20px;"><b>Appropriate Structure</b><br><br>An appropriate structure of the content is provided to students to ensure quick and smooth learning. The content sequence is not only appropriate but also logical. 
+</div>
+                    <div class="col-xs-6 col-md-2 x-small" style="margin-top:20px;" ><b>Mnemonics</b><br><br>The content explains concepts using mnemonics that not only facilitate easy recall but also make sense.
+                    </div>    
+                    
 				</div>
+                </center>
+                
+                            <div class="row">
+                               <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <h3>Video Lectures</h3>
+                                </div>
+                                <div class="col-md-1 col-xs-12"></div>
+                </div>
+                
+                            <center>
+                    
+                <div class="row" style="margin: 10px; ">
+                    
+
+                    <div class="col-xs-6 col-md-3 x-small" style="border-right:1px solid black; margin-top:20px;"><b>Subtitles
+</b><br><br>Our video lectures offers subtitles. The use of subtitles on videos makes the content easily digestible and improves your engagement level. Therefore, even if you are not very comfortable with the language it is taught in (that is, English), you can still make the most out of the video lectures.</div>
+                    <div class="col-xs-6 col-md-3 x-small" style="border-right:1px solid black;margin-top:20px;"><b>Trivia
+</b><br><br>“Did You Know?” Trivia are included in videos to give insight on the subject matter. </div>
+                    <div class="col-xs-6 col-md-3 x-small" style="border-right:1px solid black;margin-top:20px;"><b>Summaries
+</b><br><br>Each video ends with a summary of the key points for the chapter. These summaries provide students with a quick review of the important topics and issues discussed in the video lecture.</div>
+                    <div class="col-xs-6 col-md-3 x-small" style="margin-top:20px;"><b>Animations
+</b><br><br>Each video ends with a summary of the key points for the chapter. These summaries provide students with a quick review of the important topics and issues discussed in the video lecture.
+</div>    
+                    
+				</div>
+                </center>
+                
+                            <div class="row">
+                               <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <h3><br>Supplementary Material</h3>
+                                    <p style="padding:10px">The review program includes supplementary material that ties directly to the textbook content. The supplementary material helps identify important concepts and provides students with a quick review of the key issues.</p>
+                                </div>
+                                <div class="col-md-1 col-xs-12"></div>
+                            </div>
+                
+                            <div class="row">
+                               <div class="col-md-1 col-xs-12"></div>
+                                <div class="col-md-10 col-xs-12">
+                                    <h3>Audio Lectures (Anywhere-Anytime Learning)</h3>
+                                    <p style="padding:10px">We know that you never have enough time. So, we provide audio lectures in our course so that you are able to access the content anytime and anywhere. It is much more comfortable to listen to an audio lecture than read a textbook. The audio lectures provide you an alternative to text and a study aid that you can review after lecture. Audio lectures help you review large content in a short period of time. These audio lectures provide you with an occasional break from reading (and rereading the same concepts) and a different way in which you can understand and memorize concepts.</p>
+                                </div>
+                                <div class="col-md-1 col-xs-12"></div>
+                            </div>
+                
+                            <div class="row">
+                                           <div class="col-md-1 col-xs-12"></div>
+                                            <div class="col-md-10 col-xs-12">
+                                                <h3>Printed Flash Cards</h3>
+                                                <p style="padding:10px">We provide professionally produced flashcards that allow you to quickly revisit information and test your understanding. Using flashcards is considered more effective than reading a textbook and is particularly useful for recognizing the concept on a multiple-choice question.  Each time you practice a flashcard, you force your brain to remember a concept. This helps burn information into the brain as you make effort to recall a concept. The cards facilitate quick comparison when you see the answer side of a flashcard to check the accuracy of your response. Flash cards are a handy learning resource and are useful at every stage of your preparation for the CPA Exam. <b>We also provide a set of blank flashcards that you may use for creating your own flashcards.</b></p>
+                                            </div>
+                                            <div class="col-md-1 col-xs-12"></div>
+                                        
+                </div>
+
+                            <div class="row">
+                                           <div class="col-md-1 col-xs-12"></div>
+                                            <div class="col-md-10 col-xs-12">
+                                                <h3>Online Student Support</h3>
+                                                <p style="padding:10px">We provide online support to our students on any issue pertaining to the content. Our instructors and query solving team include senior educators from academia and the industry.</p>
+                                            </div>
+                                            <div class="col-md-1 col-xs-12"></div>
+                                        
+                </div>
+
+                            <div class="row">
+                                           <div class="col-md-1 col-xs-12"></div>
+                                            <div class="col-md-10 col-xs-12">
+                                                <h3>Printed Question Bank</h3>
+                                                <p style="padding:10px">We provide a large number of multiple-choice questions that our students may practice. Our question bank includes questions released by AICPA.</p>
+                                            </div>
+                                            <div class="col-md-1 col-xs-12"></div>
+                                        </div>
+
+                            <div class="row">
+                                           <div class="col-md-1 col-xs-12"></div>
+                                            <div class="col-md-10 col-xs-12">
+                                                <h3>Licensing Assistance</h3>
+                                                <p style="padding:10px">After passing the CPA Examination, the candidate may apply for a license to practice public accounting. We guide our students in obtaining the CPA license.</p>
+                                            </div>
+                                            <div class="col-md-1 col-xs-12"></div>
+                                        </div>
+                
+                </div>
+        </div>
 			</section>
 
 			<!-- Call to Action Box -->

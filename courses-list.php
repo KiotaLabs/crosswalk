@@ -243,7 +243,7 @@
 											<a  class="cover-info">
 												<div class="text">
 													<h4>Auditing and Attestation</h4>
-													<p>Auditing procedures, generally accepted auditing standards and other standards related to attest engagements.</p>
+													<p style="text-align:justify">The AUD section tests auditing procedures, generally accepted auditing standards and other standards related to attest engagements. This section also tests knowledge of professional responsibilities of certified public accountants, including ethics and independence.</p>
 												</div>
 											</a>
 
@@ -277,7 +277,7 @@
 
 									<div class="col-md-4 col-sm-12">
 										<div class="course-description">
-											<p>The AUD section tests auditing procedures, generally accepted auditing standards and other standards related to attest engagements. This section also tests knowledge of professional responsibilities of certified public accountants, including ethics and independence.<br><br>The AUD section is generally considered the hardest section of all the 4 sections. This section does not test the memory skills but tests the knowledge of the candidate in applying the audit and attestation knowledge in solving problems. The differences between ISAs and U.S. auditing standards are included on the AUD Exam.</p>
+											<p>The AUD section is generally considered the hardest section of all the 4 sections. This section does not test the memory skills but tests the knowledge of the candidate in applying the audit and attestation knowledge in solving problems. The differences between ISAs and U.S. auditing standards are included on the AUD Exam.</p>
 										</div>
 									</div>
 								</div>

@@ -95,109 +95,155 @@
 			<section class="section-hero">
 				<div class="hero-content pricing">
 					<div class="container">
-						<h1 class="heading">Select Package</h1>
+						<h1 class="heading">PRICING</h1>
 					</div>
 				</div>
 			</section>
 
 			<!-- Pricing Section -->
 			<section class="section-pricing">
+			<div class="container">
+                <section class="section-services">
 				<div class="container">
-					<!-- Pricing Boxes - V1 -->
+                    
+                    <div >
+						<h1 style="text-align:center">Whatever your learning needs are, we offer a complete package at an unbeatable price.</h1>
+					</div>
+                    
+					<!--	<div class="services-description">
+						<div class="row">
+							<div class="col-md-6">
+								<p class="highlighted-start">The Certified Public Accountant (CPA) is the highest accounting credential in the U.S. It is a symbol of trust and professionalism in the world of business. To earn the CPA qualification, one has to pass an exam administered by the American Institute of Certified Public Accountant (AICPA).</p>
+
+								<p>Crosswalk specializes in preparing students for the CPA exam and offers a complete CPA review program. We are focused on creating value and providing highest quality and exam oriented training to our students with:</p>
+
+								<ul class="list-services">
+									<li>Proprietary content and innovative teaching methodology</li>
+									<li>Designed to ensure a delightful experience followed by</li>
+									<li>End to end support till you reach the doorstep of success</li>
+								</ul>
+							</div>
+
+							<div class="col-md-6 col-lg-offset-1 col-lg-5">
+								<div class="showcase-box">
+									<div class="box-wrapper" data-parallax-bg="img/showcase-bg.jpg">
+										<div class="box-img"><span></span></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>-->
+
 					<div class="row">
-						<div class="col-md-4 col-sm-6">
-							<div class="pricing-box simple">
-								<div class="pricing-box-header">
-									<div class="box-type">Basic</div>
-									<div class="box-value">
-										<span>Rs 1,00,000 </span>
-										<!-- <p>Monthly</p> -->
-									</div>
-								</div>
-
-								<div class="pricing-box-body">
-									<ul class="features">
-										<li>8 Text books</li>
-										<li>Question Bank</li> 
-										
-										<li><strike>Printed flash cards</strike></li>
-										<li><strike>Access to online portal</strike></li>
-										
-										<li>AICPA released questions</li>
-										
-										<li><strike>18 months access</strike></li> 
-										<li><strike>Cram course</strike></li>
-										
-										<li>Online Query Support</li>
-										<li>Free updates to materials</li>
-									</ul>
-
-									<a href="#" class="btn theme-btn-1">
-										<span class="button">Buy now</span>
-									</a>
-								</div>
+						
+                        <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-book"></i>
+								<h4 class="title">8 Textbooks</h4>
+							
 							</div>
 						</div>
 
-						<div class="col-md-4 col-sm-6">
-							<div class="pricing-box simple">
-								<div class="pricing-box-header">
-									<div class="box-type">Standard</div>
-									<div class="box-value">
-										<span>Rs 1,05,000</span>
-										<!-- <p>Monthly</p> -->
-									</div>
-								</div>
-
-								<div class="pricing-box-body">
-									<ul class="features">
-										<li>8 Text books</li>
-										<li>Question Bank</li> 
-										<li>Printed flash cards</li>
-										<li>Access to online portal</li>  
-										<li>AICPA released questions</li>
-										<li>18 months access</li> 
-										<li><strike>Cram course</strike></li>
-										<li>Online Query Support</li>
-										<li>Free updates to materials</li>
-									</ul>
-
-									<a href="#" class="btn theme-btn-1">
-										<span class="button">Buy now</span>
-									</a>
-								</div>
+						<div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-question"></i>
+								<h4 class="title">Question Bank including AICPA released questions</h4>
+							
+							</div>
+						</div>
+                        
+                        <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-square-o"></i>
+								<h4 class="title">Flash Cards</h4>
+							
+							</div>
+						</div>
+                        
+                         <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-file-audio-o"></i>
+								<h4 class="title">audio files</h4>
+							
+							</div>
+						</div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-file-video-o"></i>
+								<h4 class="title">130+ hours of Video Classes</h4>
+							
+							</div>
+						</div>
+                        
+                        <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-phone"></i>
+								<h4 class="title">Student Support</h4>
+							
+							</div>
+						</div>
+                        
+                        <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-refresh"></i>
+								<h4 class="title">Regular updates to materials</h4>
+							
 							</div>
 						</div>
 
-						<div class="col-md-4 col-sm-6">
-							<div class="pricing-box featured">
-								<div class="pricing-box-header">
-									<div class="box-type">Premium</div>
-									<div class="box-value">
-										<span>Rs 1,20,000 </span>
-										<!-- <p>Monthly</p> -->
-									</div>
-								</div>
-
-								<div class="pricing-box-body">
-									<ul class="features">
-										<li>8 Text books</li>
-										<li>Question Bank</li> 
-										<li>Printed flash cards</li>
-										<li>Access to online portal</li>  
-										<li>AICPA released questions</li>
-										<li>18 months access</li> 
-										<li>Cram course</li> 
-										<li>Online Query Support</li>
-										<li>Free updates to materials</li>
-									</ul>
-
-									<a href="#" class="btn theme-btn-1">
-										<span class="button">Buy now</span>
-									</a>
-								</div>
+                         <div class="col-xs-6 col-md-3 x-small">
+							<div class="simple-service">
+								<i class="icon fa fa-paperclip"></i>
+								<h4 class="title">supplementary materials</h4>
+							
 							</div>
 						</div>
+
+						
+					</div>
+
+				
+				</div>
+                    
+                    <div style="text-align:center; margin-top:40px; ">
+                        
+                        <h1>Full Package Cost</h1>
+                    <div class="col-xs-12 col-md-12 x-small" style="font-size:30px; padding:10px;"><strike><i class="icon fa fa-inr"></i>1,15,000</strike></div>
+                    <div class="col-xs-12 col-md-12 x-small" style="font-size:35px; padding:10px; color:red"><i class="icon fa fa-inr"></i>90,000</div>
+                        <div class="col-xs-12 col-md-12 x-small" style="font-size:15px; padding:10px;">(SAVE <i class="icon fa fa-inr"></i>25,000)</div>
+                        
+                      <a href="#" class="btn theme-btn-1">
+										<span class="button" style="color:#43b9c7">Buy now</span>
+									</a>  
+                    </div>
+                    
+			</section>
+                </div>
+                <hr />
+                	
+                
+                
+                <div class="row">
+                       <div class="col-xs-1 col-md-2"></div>  
+                        
+                <div class="col-xs-10 col-md-8" >
+						
+                <h1>Organizations</h1>
+                <p style="text-align: justify;">If you represent an organization and would like to buy our review program for several individuals, we would be happy to discuss the options and benefits of bulk purchasing.<br>We'll be delighted to create a plan that suits your requirements.
+</p>
+                    </div>
+                    
+                    <div class="col-xs-1 col-md-2"></div>
+                            </div>          
+                
+                
+                
+                
+					<!-- Pricing Boxes - V1 -->
+				
 
 <!-- 						<div class="col-md-3 col-sm-6">
 							<div class="pricing-box simple">
@@ -224,9 +270,7 @@
 								</div>
 							</div>
 						</div>
- -->					</div>
-
-					<hr />
+ -->	
 
 					<!-- Pricing Boxes - V2 -->
 <!-- 					<div class="row">
@@ -366,7 +410,8 @@
 							</div>
 						</div>
 					</div>
- -->				</div>
+ -->				
+					
 			</section>
 
 			<!-- Call to Action Box -->
