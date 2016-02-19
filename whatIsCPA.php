@@ -161,7 +161,7 @@
                                            <h1>Eligibility Requirements</h1>
                                            
                                            <p >In order to sit for the Uniform CPA Exam, a candidate must meet the eligibility requirements of any one of the 55 states or jurisdictions of the United States. Each state sets its own educational requirements. However, most state boards require a minimum of 150 hours of post-secondary education from a regionally accredited institution and specify a minimum number of college credits in various accounting topics and business laws. To obtain 150 hours of post-secondary education, generally a master’s degree in accounting or taxation is sufficient. Although, a master’s degree is advised but is not an essential requirement. A candidate may meet the requirement by taking additional courses without a master’s degree. The exact requirements vary from state to state and you may contact our Eligibility Team (info@crosswalkcpa.com) for insight on this.<br><br>Please read the Candidate Bulletin or click the link below to determine the specific state eligibility requirements. 
-                                               <br><a href="http://nasba.org/exams/cpaexam/" target="_blank" style="color:inherit">LINK</a>
+                                               <br><a href="http://nasba.org/exams/cpaexam/" target="_blank" style="color:inherit">http://nasba.org/exams/cpaexam/</a>
  </p>
                                         </div>
                                 </div>
@@ -174,7 +174,7 @@
                                            
                                            <p >Candidates who received their education from a college or university outside the United States, must have their transcripts evaluated by a recognized evaluation service to determine whether they meet the eligibility requirements of the state for which they are applying.
 <br><br>You may click on the link below to get specific information on each state’s eligibility requirements. 
-                                     <br><a href="http://nasba.org/exams/cpaexam/" target="_blank" style="color:inherit">LINK</a>
+                                     <br><a href="http://nasba.org/exams/cpaexam/" target="_blank" style="color:inherit">http://nasba.org/exams/cpaexam/</a>
 </p>
                                         </div>
                         </div>
